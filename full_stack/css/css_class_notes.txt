@@ -1,0 +1,23 @@
+
+
+<style>
+        body{
+            background-color: #245672;
+            color: pink;
+            font-style: italic;
+        }
+        p{
+            background-color: #fff;
+            color: black;
+            text-align: center;
+            border-radius: 10px;
+            border-color: black;
+            border-width: 4px;
+        }
+        li:hover{
+            background-color: rgb(47, 255, 0);
+            color: black;
+        }
+    </style>
+
+    class 2

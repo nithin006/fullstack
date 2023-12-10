@@ -1,0 +1,20 @@
+introduction to HTML
+tags = header, body, div, p, ancher, nav, footer
+audio, vedio, image
+
+tags contain attributes(properties)
+
+class 2:
+
+h1 to h6 # hedder files
+
+table
+
+iframe
+
+audio
+
+vedio
+
+forms
+
