@@ -1,10 +1,8 @@
-// //
 
 // 7;
 // 5;
 // number values
 
-// ("name");
 // ('name');
 // string values
 
@@ -67,11 +65,9 @@
 // declaring variable
 // template literal
 
-
 // OPERATOR
 
 // operators simply means calculations(ie.+-/*,,)
-
 
 // let x = 10;  // assignment operator
 // let y = 11;
